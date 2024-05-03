@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#### I'm a software developer from Romania 🇷🇴
+#### I'm a software developer from Italy
 
 - 🏫 CS from [Alexandru Ioan Cuza University](https://www.uaic.ro/en/)
 - 🛠 Working with `.kt` `.dart` `.js` `.ts` `.py` `.html` `.css`
